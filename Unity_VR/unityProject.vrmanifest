@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unity_vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Tim Huijkman\\Documents\\GitHub\\Unity_VR\\Unity_VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Unity_VR [Testing]"
+        }
+      }
+    }
+  ]
+}
